@@ -1,0 +1,26 @@
+.EmailForm {
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 30px;
+  width: 50%;
+  font-size: 17px;
+}
+
+.EmailForm h3 {
+  margin: 0;
+  margin-bottom: 11px;
+}
+
+.EmailForm input {
+  background: url("../../icons/email-icon.png") no-repeat scroll 10px 10px;
+  height: 35px;
+  width: 60%;
+  display: inline-block;
+  border: 1px solid lightgray;
+  border-radius: 2px;
+  outline: none;
+  padding-left: 40px;
+  padding-right: 10px;
+  font-size: 16px;
+}

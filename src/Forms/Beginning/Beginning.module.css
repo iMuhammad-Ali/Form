@@ -1,0 +1,51 @@
+.BeginningForm {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 30px;
+  width: 50%;
+  font-size: 17px;
+}
+
+.BeginningForm h3 {
+  margin: 0;
+}
+
+.BeginningForm ul {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+}
+
+.BeginningForm li {
+  width: fit-content;
+  list-style: none;
+  padding: 5px 0;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 0;
+}
+
+.BeginningForm li:hover {
+  transform: scale(1.05);
+}
+
+.BeginningForm span {
+  border: 1px solid black;
+  border-radius: 50%;
+}
+
+.BeginningForm input {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+
+.BeginningForm input:hover {
+  cursor: pointer;
+}
+
+.BeginningForm p {
+  color: gray;
+  font-style: italic;
+}

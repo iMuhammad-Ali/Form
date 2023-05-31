@@ -1,0 +1,44 @@
+.AddressForm {
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 30px;
+  width: 50%;
+  font-size: 17px;
+}
+
+.AddressForm h3 {
+  margin: 0;
+  margin-bottom: 8px;
+}
+
+.AddressForm input,
+.AddressForm select {
+  box-sizing: border-box;
+  height: 35px;
+  width: 100%;
+  display: inline-block;
+  border: 1px solid lightgray;
+  border-radius: 2px;
+  outline: none;
+  padding: 0 10px;
+  font-size: 16px;
+}
+
+.AddressForm p {
+  margin-top: 5px;
+  color: gray;
+  font-size: 15px;
+}
+
+.ShortInputs div {
+  display: inline-block;
+  width: 48%;
+}
+
+.ShortInputs {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  column-gap: 10px;
+}

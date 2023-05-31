@@ -1,0 +1,41 @@
+.NameForm {
+  width: 50%;
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 30px;
+  font-size: 17px;
+}
+
+.NameForm h3 {
+  margin: 0;
+  margin-bottom: 13px;
+}
+
+.Name {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 15px;
+}
+
+.Name div {
+  display: inline-block;
+}
+
+.NameForm input {
+  box-sizing: border-box;
+  background: url("../../icons/user-icon.png") no-repeat scroll 10px 10px;
+  height: 35px;
+  display: inline-block;
+  border: 1px solid lightgray;
+  border-radius: 2px;
+  outline: none;
+  padding-left: 30px;
+  padding-right: 10px;
+  font-size: 16px;
+}
+
+.Name p {
+  margin-top: 5px;
+  color: gray;
+  font-size: 15px;
+}

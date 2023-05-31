@@ -1,0 +1,39 @@
+.Form {
+  background-color: #eeeeee;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+
+.Form form {
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.25), 0 3px 5px rgba(0, 0, 0, 0.22);
+}
+
+.FormTogglers {
+  height: 50px;
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Form button {
+  font-weight: bold;
+  font-size: 18px;
+  color: rgba(24, 101, 34, 0.818);
+  background-color: transparent;
+  border: none;
+}
+
+.Form button:hover {
+  cursor: pointer;
+  transform: scale(1.03);
+}
+
+.Form button:disabled {
+  cursor: text;
+  color: rgb(112, 208, 126);
+  transform: scale(1);
+}
