@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iMuhammad-Ali/Form/static/css/main.40686842.css",
+    "main.js": "/iMuhammad-Ali/Form/static/js/main.4aca3bf5.js",
+    "static/js/787.aeb39de0.chunk.js": "/iMuhammad-Ali/Form/static/js/787.aeb39de0.chunk.js",
+    "index.html": "/iMuhammad-Ali/Form/index.html",
+    "main.40686842.css.map": "/iMuhammad-Ali/Form/static/css/main.40686842.css.map",
+    "main.4aca3bf5.js.map": "/iMuhammad-Ali/Form/static/js/main.4aca3bf5.js.map",
+    "787.aeb39de0.chunk.js.map": "/iMuhammad-Ali/Form/static/js/787.aeb39de0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40686842.css",
+    "static/js/main.4aca3bf5.js"
+  ]
+}
